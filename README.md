@@ -1,24 +1,12 @@
 # vuex-practice
 
-## Project setup
-```
-npm install
-```
+A practice project that displays the products of a fake store. Vuex is used for storing the currency rates and performing price conversions for the products.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+The following public apis where used:
+- [FakeStore](https://fakestoreapi.com)
+- [Currency Api](https://github.com/fawazahmed0/currency-api)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Libraries used:
+- [Axios](https://github.com/axios/axios)
+- Tailwind CSS
+- Headless UI
