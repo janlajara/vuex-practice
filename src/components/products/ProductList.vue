@@ -33,7 +33,6 @@ export default {
                         id, title, description, image, price,
                         rating: rating.rate
                     }))
-                console.log(products)
             }
             return products;
         }
