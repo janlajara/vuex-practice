@@ -10,6 +10,7 @@ RUN npm install
 COPY . .
 RUN npm run build
 
+
 # NGINX
 FROM nginx
 COPY --from=frontend /frontend/dist /usr/share/nginx/html
