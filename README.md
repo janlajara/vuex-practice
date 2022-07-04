@@ -1,6 +1,6 @@
 # vuex-practice
 
-A quick practice project that displays the products of a fake store. Vuex is used for storing the currency rates and performing price conversions for the products.
+A quick practice project that displays the products of a fake store where Vuex is used for storing the currency rates and performing price conversions of the products.
 
 The following public apis were used:
 - [FakeStore](https://fakestoreapi.com)
