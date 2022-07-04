@@ -2,7 +2,7 @@
 
 A quick practice project that displays the products of a fake store. Vuex is used for storing the currency rates and performing price conversions for the products.
 
-The following public apis where used:
+The following public apis were used:
 - [FakeStore](https://fakestoreapi.com)
 - [Currency Api](https://github.com/fawazahmed0/currency-api)
 
